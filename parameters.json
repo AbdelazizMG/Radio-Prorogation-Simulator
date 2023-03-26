@@ -1,0 +1,28 @@
+{
+	"Antenna Parameters" : 
+	{
+		"Pt" : 5,
+		"Gt" : 5,
+		"Gr" : 5,
+		"F"  : 5
+	},
+
+	"Model Parameters" : 
+	{
+		"d"  : 5,
+		"do" : 5,
+		"n"  : 5,
+		"σ"  : 5,
+                "k"  : 5
+	},
+
+	"Extra Parameters" : 
+	{
+		"Required PR"  : 5,
+		"Time"         : 5
+	}
+
+
+
+
+}
