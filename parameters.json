@@ -2,8 +2,9 @@
 	"Model Parameters" : 
 	{
 		"do" 	       : 5,
+		"Pl_do"        : 5,
 		"Measurements" : {
-					"20"     : 20, 
+					"20"    : 20, 
 					"40"    : 30,
 					"60"    : 40,
 				        "120"   : 50,
