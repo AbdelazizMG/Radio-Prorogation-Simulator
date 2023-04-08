@@ -1,17 +1,3 @@
-% clc
-% clear
-% d2=[20,30,40,55,70,90,115,135,156];
-% 
-% PL_d2=[20,25,30,35,40,45,50,53,57];
-% [n_estimated_value2,sigma_estimated_value2,avg_array2,model2]=estimation_fn(PL_d2,d2,12,15);
-% figure
-%      plot(d2,model2);
-%      hold on
-%      scatter(d2,avg_array2);
-%      xlabel('distance (d)');
-%      ylabel('path loss (PL)');
-%      hold off
-
 function  [n_estimated_value,sigma_estimated_value,avg_array,model] = estimation_file(PL_d,d,PL_do_decimal,do)
 
 syms n_estimated;
